@@ -6,7 +6,7 @@
 
 ## 截图
 
-![游戏截图](readi.png)
+![游戏截图](reai.png)
 
 #### Build Setup
 
