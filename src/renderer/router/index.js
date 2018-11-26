@@ -5,11 +5,16 @@ Vue.use(Router);
 
 export default new Router({
   routes: [
-    // {
-    //   path: '/',
-    //   name: 'landing-page',
-    //   component: require('@/components/LandingPage').default,
-    // },
+    {
+      path: '/landing',
+      name: 'landing-page',
+      component: require('@/components/LandingPage').default,
+    },
+    {
+      path: '/welcome',
+      name: 'welcome',
+      component: require('@/components/welcome').default,
+    },
     {
       path: '/home',
       name: 'home',
@@ -17,7 +22,7 @@ export default new Router({
     },
     {
       path: '*',
-      redirect: '/home',
+      redirect: '/welcome',
     },
   ],
 });
