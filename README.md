@@ -1,10 +1,16 @@
 # readi
 
-> an interest reading app
+> an interest reading app 兴趣阅读 app
+> 基于 electron 生成,可生成跨平台应用。
+> 接口基于[RSSHub](https://github.com/DIYgod/RSSHub)
+
+## 截图
+
+![游戏截图](readi.png)
 
 #### Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -13,10 +19,6 @@ npm run dev
 
 # build electron application for production
 npm run build
-
-
-# lint all JS/Vue component files in `src/`
-npm run lint
 
 ```
 
