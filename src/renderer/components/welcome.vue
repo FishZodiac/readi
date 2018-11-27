@@ -15,7 +15,13 @@
             <div class="card">
               <div class="card-content">
                 <div class="tags">
-                  <span class="tag is-medium" :class="[item.active?tagColor[index%6]:'']" v-for="(item,index) in tags" :key="index" @click="subscribeTag(index)">{{item.name}}
+                  <span
+                    class="tag is-medium"
+                    :class="[item.active?tagColor[index%6]:'']"
+                    v-for="(item,index) in tags"
+                    :key="index"
+                    @click="subscribeTag(index)"
+                  >{{item.name}}
                   </span>
                 </div>
               </div>
@@ -66,6 +72,9 @@ export default {
 };
 </script>
 <style scoped>
+.container {
+  align-items: center;
+}
 .title {
   font-size: 48px;
 }
@@ -79,7 +88,13 @@ export default {
 .tag:hover {
   transform: scale(1.1, 1.1);
 }
+.card {
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
 .card-footer-item {
+  font-size: 18px;
+  color: #23d160;
   cursor: pointer;
 }
 </style>
