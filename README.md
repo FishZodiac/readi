@@ -10,8 +10,8 @@
 
 ## 下载地址
 
-[mac](https://pan.baidu.com/s/1ruIll-o-5DUwBSvyxoDLfQ) 密码:4vgj
-[ios](https://pan.baidu.com/s/1CpUO8ND0lmTErDxGE3MvAA) 密码:proq
+[win](https://pan.baidu.com/s/1ruIll-o-5DUwBSvyxoDLfQ) 密码:4vgj
+[mac](https://pan.baidu.com/s/1CpUO8ND0lmTErDxGE3MvAA) 密码:proq
 
 #### Build Setup
 
