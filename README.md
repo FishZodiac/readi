@@ -9,9 +9,8 @@
 ![截图](reai.png)
 
 ## 下载地址
-
 [win](https://pan.baidu.com/s/1ruIll-o-5DUwBSvyxoDLfQ) 密码:4vgj
-[mac](https://pan.baidu.com/s/1CpUO8ND0lmTErDxGE3MvAA) 密码:proq
+[mac](https://pan.baidu.com/s/1ah112iSr7YFx1KlOgSWGsA) 密码:fydm
 
 #### Build Setup
 
