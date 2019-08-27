@@ -37,7 +37,7 @@ export default {
   stroke-miterlimit: 10;
   stroke-linecap: round;
   animation: loading-circle 2s linear infinite;
-  stroke: #23d160;
+  stroke: #fc687d;
   fill: transparent;
 }
 @keyframes loading {

@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "buefy": "^0.7.1",
+    "buefy": "^0.8.2",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
     "vue-router": "^3.0.1",
